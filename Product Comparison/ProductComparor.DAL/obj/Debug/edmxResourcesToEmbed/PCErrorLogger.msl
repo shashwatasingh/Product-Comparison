@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PCErrorLoggerModelStoreContainer" CdmEntityContainer="PCErrorLoggerEntities4">
+    <EntitySetMapping Name="PCErrorLoggers">
+      <EntityTypeMapping TypeName="PCErrorLoggerModel.PCErrorLogger">
+        <MappingFragment StoreEntitySet="PCErrorLogger">
+          <ScalarProperty Name="ErrorID" ColumnName="ErrorID" />
+          <ScalarProperty Name="ErrorDate" ColumnName="ErrorDate" />
+          <ScalarProperty Name="ErrorMessage" ColumnName="ErrorMessage" />
+          <ScalarProperty Name="ErrorSource" ColumnName="ErrorSource" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

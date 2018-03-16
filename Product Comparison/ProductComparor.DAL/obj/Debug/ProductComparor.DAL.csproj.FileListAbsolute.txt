@@ -1,0 +1,14 @@
+F:\Studies\Synechron\C#\Projects\Product_Comparison\ProductComparor.DAL\bin\Debug\ProductComparor.DAL.dll.config
+F:\Studies\Synechron\C#\Projects\Product_Comparison\ProductComparor.DAL\bin\Debug\ProductComparor.DAL.dll
+F:\Studies\Synechron\C#\Projects\Product_Comparison\ProductComparor.DAL\bin\Debug\ProductComparor.DAL.pdb
+F:\Studies\Synechron\C#\Projects\Product_Comparison\ProductComparor.DAL\bin\Debug\EntityFramework.dll
+F:\Studies\Synechron\C#\Projects\Product_Comparison\ProductComparor.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Studies\Synechron\C#\Projects\Product_Comparison\ProductComparor.DAL\bin\Debug\ProductComparison.DAL.dll
+F:\Studies\Synechron\C#\Projects\Product_Comparison\ProductComparor.DAL\bin\Debug\ProductComparisonEntities.Model.dll
+F:\Studies\Synechron\C#\Projects\Product_Comparison\ProductComparor.DAL\bin\Debug\ProductComparison.DAL.pdb
+F:\Studies\Synechron\C#\Projects\Product_Comparison\ProductComparor.DAL\bin\Debug\ProductComparisonEntities.Model.pdb
+F:\Studies\Synechron\C#\Projects\Product_Comparison\ProductComparor.DAL\bin\Debug\EntityFramework.xml
+F:\Studies\Synechron\C#\Projects\Product_Comparison\ProductComparor.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Studies\Synechron\C#\Projects\Product_Comparison\ProductComparor.DAL\obj\Debug\ProductComparor.DAL.csprojResolveAssemblyReference.cache
+F:\Studies\Synechron\C#\Projects\Product_Comparison\ProductComparor.DAL\obj\Debug\ProductComparor.DAL.dll
+F:\Studies\Synechron\C#\Projects\Product_Comparison\ProductComparor.DAL\obj\Debug\ProductComparor.DAL.pdb

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PCErrorLoggerModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="PCErrorLoggerModelStoreContainer">
+    <EntitySet Name="PCErrorLogger" EntityType="PCErrorLoggerModel.Store.PCErrorLogger" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="PCErrorLogger">
+    <Key>
+      <PropertyRef Name="ErrorID" />
+    </Key>
+    <Property Name="ErrorID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ErrorDate" Type="datetime" />
+    <Property Name="ErrorMessage" Type="nvarchar" MaxLength="200" />
+    <Property Name="ErrorSource" Type="nvarchar" MaxLength="200" />
+  </EntityType>
+</Schema>
