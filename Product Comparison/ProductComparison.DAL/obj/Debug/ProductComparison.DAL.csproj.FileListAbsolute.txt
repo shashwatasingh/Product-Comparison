@@ -1,0 +1,186 @@
+c:\users\admin\documents\visual studio 2012\Projects\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.dll
+c:\users\admin\documents\visual studio 2012\Projects\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparisonEntities.Model.dll
+c:\users\admin\documents\visual studio 2012\Projects\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparisonEntities.Model.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.dll
+c:\users\admin\documents\visual studio 2012\Projects\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.dll.config
+c:\users\admin\documents\visual studio 2012\Projects\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.dll
+c:\users\admin\documents\visual studio 2012\Projects\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\admin\documents\visual studio 2012\Projects\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.xml
+c:\users\admin\documents\visual studio 2012\Projects\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\ash\Synechron\c#\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.dll.config
+C:\ash\Synechron\c#\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.dll
+C:\ash\Synechron\c#\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.pdb
+C:\ash\Synechron\c#\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.dll
+C:\ash\Synechron\c#\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\ash\Synechron\c#\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparisonEntities.Model.dll
+C:\ash\Synechron\c#\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparisonEntities.Model.pdb
+C:\ash\Synechron\c#\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.xml
+C:\ash\Synechron\c#\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\ash\Synechron\c#\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.csprojResolveAssemblyReference.cache
+C:\ash\Synechron\c#\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.dll
+C:\ash\Synechron\c#\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.pdb
+C:\ash\Synechron\Projects\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.dll.config
+C:\ash\Synechron\Projects\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.dll
+C:\ash\Synechron\Projects\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.pdb
+C:\ash\Synechron\Projects\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.dll
+C:\ash\Synechron\Projects\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\ash\Synechron\Projects\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparisonEntities.Model.dll
+C:\ash\Synechron\Projects\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparisonEntities.Model.pdb
+C:\ash\Synechron\Projects\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.xml
+C:\ash\Synechron\Projects\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\ash\Synechron\Projects\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.csprojResolveAssemblyReference.cache
+C:\ash\Synechron\Projects\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.dll
+C:\ash\Synechron\Projects\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.pdb
+C:\ash\Synechron\Projects\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.InitialCreate.resources
+C:\ash\Synechron\Projects\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.csproj.GenerateResource.Cache
+C:\ash\Synechron\Projects\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigCat.resources
+C:\ash\Synechron\Projects\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigSubCat.resources
+C:\ash\Synechron\Projects\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigProd.resources
+C:\ash\Synechron\Projects\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigSugg.resources
+C:\ash\Synechron\Projects\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigRep.resources
+C:\ash\Synechron\Projects\Project-ProductComparison\Coding\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigUP.resources
+C:\Users\admin\Desktop\Final Project\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.dll.config
+C:\Users\admin\Desktop\Final Project\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.dll
+C:\Users\admin\Desktop\Final Project\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.pdb
+C:\Users\admin\Desktop\Final Project\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\Final Project\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Final Project\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparisonEntities.Model.dll
+C:\Users\admin\Desktop\Final Project\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparisonEntities.Model.pdb
+C:\Users\admin\Desktop\Final Project\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\Final Project\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Final Project\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Final Project\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.InitialCreate.resources
+C:\Users\admin\Desktop\Final Project\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigCat.resources
+C:\Users\admin\Desktop\Final Project\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigSubCat.resources
+C:\Users\admin\Desktop\Final Project\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigProd.resources
+C:\Users\admin\Desktop\Final Project\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigSugg.resources
+C:\Users\admin\Desktop\Final Project\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigRep.resources
+C:\Users\admin\Desktop\Final Project\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigUP.resources
+C:\Users\admin\Desktop\Final Project\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Final Project\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.dll
+C:\Users\admin\Desktop\Final Project\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.pdb
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\Product Comparison\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.dll.config
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\Product Comparison\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.dll
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\Product Comparison\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.pdb
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\Product Comparison\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\Product Comparison\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\Product Comparison\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparisonEntities.Model.dll
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\Product Comparison\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparisonEntities.Model.pdb
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\Product Comparison\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\Product Comparison\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\Product Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\Product Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.InitialCreate.resources
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\Product Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigCat.resources
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\Product Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigSubCat.resources
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\Product Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigProd.resources
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\Product Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigSugg.resources
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\Product Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigRep.resources
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\Product Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigUP.resources
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\Product Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.csproj.GenerateResource.Cache
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\Product Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.dll
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\Product Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.pdb
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\PRODUCT COMPARISON\7thMay Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.dll.config
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\PRODUCT COMPARISON\7thMay Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.dll
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\PRODUCT COMPARISON\7thMay Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.pdb
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\PRODUCT COMPARISON\7thMay Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.dll.CodeAnalysisLog.xml
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\PRODUCT COMPARISON\7thMay Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.dll.lastcodeanalysissucceeded
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\PRODUCT COMPARISON\7thMay Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\PRODUCT COMPARISON\7thMay Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\PRODUCT COMPARISON\7thMay Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparisonEntities.Model.dll
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\PRODUCT COMPARISON\7thMay Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparisonEntities.Model.pdb
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\PRODUCT COMPARISON\7thMay Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\PRODUCT COMPARISON\7thMay Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\PRODUCT COMPARISON\7thMay Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\PRODUCT COMPARISON\7thMay Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.InitialCreate.resources
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\PRODUCT COMPARISON\7thMay Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigCat.resources
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\PRODUCT COMPARISON\7thMay Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigSubCat.resources
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\PRODUCT COMPARISON\7thMay Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigProd.resources
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\PRODUCT COMPARISON\7thMay Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigSugg.resources
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\PRODUCT COMPARISON\7thMay Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigRep.resources
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\PRODUCT COMPARISON\7thMay Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigUP.resources
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\PRODUCT COMPARISON\7thMay Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.csproj.GenerateResource.Cache
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\PRODUCT COMPARISON\7thMay Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.dll
+C:\Users\Shashwata\Documents\Synechron\Dummy Project\PRODUCT COMPARISON\7thMay Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.pdb
+C:\Users\admin\Desktop\8thMay  Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.dll.config
+C:\Users\admin\Desktop\8thMay  Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.dll
+C:\Users\admin\Desktop\8thMay  Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.pdb
+C:\Users\admin\Desktop\8thMay  Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\8thMay  Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\8thMay  Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparisonEntities.Model.dll
+C:\Users\admin\Desktop\8thMay  Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparisonEntities.Model.pdb
+C:\Users\admin\Desktop\8thMay  Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\8thMay  Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\8thMay  Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\8thMay  Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.InitialCreate.resources
+C:\Users\admin\Desktop\8thMay  Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigCat.resources
+C:\Users\admin\Desktop\8thMay  Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigSubCat.resources
+C:\Users\admin\Desktop\8thMay  Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigProd.resources
+C:\Users\admin\Desktop\8thMay  Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigSugg.resources
+C:\Users\admin\Desktop\8thMay  Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigRep.resources
+C:\Users\admin\Desktop\8thMay  Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigUP.resources
+C:\Users\admin\Desktop\8thMay  Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\8thMay  Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.dll
+C:\Users\admin\Desktop\8thMay  Project\Product_Comparison\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.pdb
+C:\Users\Sarang\Desktop\Product_Comparison (2)\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.dll.config
+C:\Users\Sarang\Desktop\Product_Comparison (2)\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.dll
+C:\Users\Sarang\Desktop\Product_Comparison (2)\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.pdb
+C:\Users\Sarang\Desktop\Product_Comparison (2)\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Sarang\Desktop\Product_Comparison (2)\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sarang\Desktop\Product_Comparison (2)\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparisonEntities.Model.dll
+C:\Users\Sarang\Desktop\Product_Comparison (2)\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparisonEntities.Model.pdb
+C:\Users\Sarang\Desktop\Product_Comparison (2)\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Sarang\Desktop\Product_Comparison (2)\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sarang\Desktop\Product_Comparison (2)\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Sarang\Desktop\Product_Comparison (2)\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.InitialCreate.resources
+C:\Users\Sarang\Desktop\Product_Comparison (2)\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigCat.resources
+C:\Users\Sarang\Desktop\Product_Comparison (2)\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigSubCat.resources
+C:\Users\Sarang\Desktop\Product_Comparison (2)\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigProd.resources
+C:\Users\Sarang\Desktop\Product_Comparison (2)\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigSugg.resources
+C:\Users\Sarang\Desktop\Product_Comparison (2)\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigRep.resources
+C:\Users\Sarang\Desktop\Product_Comparison (2)\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigUP.resources
+C:\Users\Sarang\Desktop\Product_Comparison (2)\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.csproj.GenerateResource.Cache
+C:\Users\Sarang\Desktop\Product_Comparison (2)\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.dll
+C:\Users\Sarang\Desktop\Product_Comparison (2)\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.pdb
+F:\Studies\Synechron\C#\Projects\Integrated1\FinalProjectCompleted\With Filtering\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.dll.config
+F:\Studies\Synechron\C#\Projects\Integrated1\FinalProjectCompleted\With Filtering\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.dll
+F:\Studies\Synechron\C#\Projects\Integrated1\FinalProjectCompleted\With Filtering\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.pdb
+F:\Studies\Synechron\C#\Projects\Integrated1\FinalProjectCompleted\With Filtering\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.dll
+F:\Studies\Synechron\C#\Projects\Integrated1\FinalProjectCompleted\With Filtering\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Studies\Synechron\C#\Projects\Integrated1\FinalProjectCompleted\With Filtering\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparisonEntities.Model.dll
+F:\Studies\Synechron\C#\Projects\Integrated1\FinalProjectCompleted\With Filtering\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparisonEntities.Model.pdb
+F:\Studies\Synechron\C#\Projects\Integrated1\FinalProjectCompleted\With Filtering\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.xml
+F:\Studies\Synechron\C#\Projects\Integrated1\FinalProjectCompleted\With Filtering\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Studies\Synechron\C#\Projects\Integrated1\FinalProjectCompleted\With Filtering\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.csprojResolveAssemblyReference.cache
+F:\Studies\Synechron\C#\Projects\Integrated1\FinalProjectCompleted\With Filtering\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.InitialCreate.resources
+F:\Studies\Synechron\C#\Projects\Integrated1\FinalProjectCompleted\With Filtering\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigCat.resources
+F:\Studies\Synechron\C#\Projects\Integrated1\FinalProjectCompleted\With Filtering\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigSubCat.resources
+F:\Studies\Synechron\C#\Projects\Integrated1\FinalProjectCompleted\With Filtering\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigProd.resources
+F:\Studies\Synechron\C#\Projects\Integrated1\FinalProjectCompleted\With Filtering\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigSugg.resources
+F:\Studies\Synechron\C#\Projects\Integrated1\FinalProjectCompleted\With Filtering\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigRep.resources
+F:\Studies\Synechron\C#\Projects\Integrated1\FinalProjectCompleted\With Filtering\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigUP.resources
+F:\Studies\Synechron\C#\Projects\Integrated1\FinalProjectCompleted\With Filtering\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.csproj.GenerateResource.Cache
+F:\Studies\Synechron\C#\Projects\Integrated1\FinalProjectCompleted\With Filtering\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.dll
+F:\Studies\Synechron\C#\Projects\Integrated1\FinalProjectCompleted\With Filtering\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.pdb
+C:\Users\admin\Desktop\csharp\Projects\12052014\With Filtering\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.dll.config
+C:\Users\admin\Desktop\csharp\Projects\12052014\With Filtering\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.dll
+C:\Users\admin\Desktop\csharp\Projects\12052014\With Filtering\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparison.DAL.pdb
+C:\Users\admin\Desktop\csharp\Projects\12052014\With Filtering\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\csharp\Projects\12052014\With Filtering\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\csharp\Projects\12052014\With Filtering\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparisonEntities.Model.dll
+C:\Users\admin\Desktop\csharp\Projects\12052014\With Filtering\Product_Comparison\ProductComparison.DAL\bin\Debug\ProductComparisonEntities.Model.pdb
+C:\Users\admin\Desktop\csharp\Projects\12052014\With Filtering\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\csharp\Projects\12052014\With Filtering\Product_Comparison\ProductComparison.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\csharp\Projects\12052014\With Filtering\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\csharp\Projects\12052014\With Filtering\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.InitialCreate.resources
+C:\Users\admin\Desktop\csharp\Projects\12052014\With Filtering\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigCat.resources
+C:\Users\admin\Desktop\csharp\Projects\12052014\With Filtering\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigSubCat.resources
+C:\Users\admin\Desktop\csharp\Projects\12052014\With Filtering\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigProd.resources
+C:\Users\admin\Desktop\csharp\Projects\12052014\With Filtering\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigSugg.resources
+C:\Users\admin\Desktop\csharp\Projects\12052014\With Filtering\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigRep.resources
+C:\Users\admin\Desktop\csharp\Projects\12052014\With Filtering\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.Migrations.MigUP.resources
+C:\Users\admin\Desktop\csharp\Projects\12052014\With Filtering\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\csharp\Projects\12052014\With Filtering\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.dll
+C:\Users\admin\Desktop\csharp\Projects\12052014\With Filtering\Product_Comparison\ProductComparison.DAL\obj\Debug\ProductComparison.DAL.pdb
